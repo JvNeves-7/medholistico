@@ -1,0 +1,11 @@
+#back-to-top {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+  }
+
+#container{
+   align-items: center;
+   text-align: center;
+}
+
